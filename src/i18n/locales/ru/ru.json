@@ -1,0 +1,78 @@
+{
+  "header": {
+    "flights": "Полеты",
+    "chat": "Чат",
+    "users": "Пользователи",
+    "tickets": "Билеты",
+    "lang": "Язык",
+    "signout": "Выйти"
+  },
+  "flights": {
+    "title": "Мы поможем вам с поиском авиабилетов",
+    "departure_city": "Вылет из",
+    "arrival_city": "Прилет в",
+    "departure_city_placeholder": "Выберите город вылета",
+    "arrival_city_placeholder": "Выберите город прилета",
+    "start_date": "Дата вылета",
+    "start_date_placeholder": "Выберите дату вылета",
+    "finish_date": "Дата прилета",
+    "search_by": "Поиск по",
+    "search_placeholder": "Выберите параметры поиска",
+    "price": "Цена",
+    "time": "Время",
+    "search_button": "Найти",
+    "add_button": "Добавить",
+    "holder_fn": "Имя пассажира",
+    "holder_fn_placeholder": "Введите имя пассажира",
+    "holder_ln": "Фамилия пассажира",
+    "holder_ln_placeholder": "Введите фамилию пассажира",
+    "create_button": "Добавить билет",
+    "creds": "Данные"
+  },
+  "searchOptions": {
+    "price": "Цена",
+    "time": "Время"
+  },
+  "flight":{
+    "from": "Откуда",
+    "to": "Куда",
+    "price": "Цена",
+    "start": "Вылет",
+    "end": "Прилет",
+    "available_seats": "Доступно мест",
+    "plane": "Самолет"
+  },
+  "users": {
+    "title": "Зарегестрированные пользователи",
+    "search_users_label":"Поиск",
+    "search_users_placeholder":"Введите имя",
+    "user_email":"Почта",
+    "user_tickets": "Приобретено билетов",
+    "watch_info": "Подробная Информация",
+    "user": "Пользователь",
+    "first_name": "Имя",
+    "last_name": "Фамилия",
+    "from": "Откуда",
+    "to": "Куда",
+    "price": "Цена",
+    "submit_button": "Подтвердить",
+    "no_users": "Нет зарегестрированных пользователей"
+  },
+  "tickets":{
+    "title": "Актуальные Билеты",
+    "from": "Откуда",
+    "to": "Куда",
+    "price": "Цена",
+    "submit_button": "Подтвердить",
+    "no_tickets": "Нет актуальных билетов"
+  },
+  "chat":{
+    "send_button": "Отправить",
+    "message_placeholder": "Введите сообщение"
+  }
+  ,
+  "room":{
+    "client":"Клиент",
+    "room_id": "Комната"
+  }
+}
